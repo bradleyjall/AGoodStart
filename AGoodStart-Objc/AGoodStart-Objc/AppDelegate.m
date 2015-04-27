@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
-    // Insert code here
+    NSLog(@"hi again");
     
     NSLog(@"Hello world");
     
